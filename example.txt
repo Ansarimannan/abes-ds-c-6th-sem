@@ -1,0 +1,1 @@
+1This data is written through sync fun : writtenFilesync()1This data is written through sync fun : writtenFilesync()
